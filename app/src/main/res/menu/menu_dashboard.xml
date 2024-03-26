@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/dashboardHome"
+        android:title="Home"
+        android:icon="@drawable/i_home" />
+
+    <item android:id="@+id/dashboardMenu"
+        android:title="Menu"
+        android:icon="@drawable/i_menu" />
+</menu>
